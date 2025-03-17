@@ -1,0 +1,3 @@
+D:\Studing\MODSEN\LibraryM\librarymanager.client\obj\Debug\librarymanager.client.esproj.CoreCompileInputs.cache
+D:\Studing\MODSEN\LibraryManager — копия\librarymanager.client\obj\Debug\librarymanager.client.esproj.CoreCompileInputs.cache
+D:\Studing\MODSEN\LibraryManager\librarymanager.client\obj\Debug\librarymanager.client.esproj.CoreCompileInputs.cache

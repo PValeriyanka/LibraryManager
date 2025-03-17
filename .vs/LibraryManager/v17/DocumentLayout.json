@@ -1,0 +1,1482 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Studing\\MODSEN\\LibraryManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|d:\\studing\\modsen\\librarymanager\\librarymanager.client\\src\\components\\axiossetup.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|solutionrelative:librarymanager.client\\src\\components\\axiossetup.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|d:\\studing\\modsen\\librarymanager\\librarymanager.client\\src\\services\\users.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|solutionrelative:librarymanager.client\\src\\services\\users.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|d:\\studing\\modsen\\librarymanager\\librarymanager.client\\src\\services\\loginpost.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|solutionrelative:librarymanager.client\\src\\services\\loginpost.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|d:\\studing\\modsen\\librarymanager\\librarymanager.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|solutionrelative:librarymanager.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\services\\igenreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\services\\igenreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\services\\iborrowedbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\services\\iborrowedbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\services\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\services\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|d:\\studing\\modsen\\librarymanager\\librarymanager.client\\src\\services\\borrowedbooks.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|solutionrelative:librarymanager.client\\src\\services\\borrowedbooks.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\controllers\\borrowedbookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\controllers\\borrowedbookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|d:\\studing\\modsen\\librarymanager\\librarymanager.client\\src\\components\\borrowedbookscomponents\\borrowedbookspage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|solutionrelative:librarymanager.client\\src\\components\\borrowedbookscomponents\\borrowedbookspage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|d:\\studing\\modsen\\librarymanager\\librarymanager.client\\src\\components\\bookscomponents\\bookspage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|solutionrelative:librarymanager.client\\src\\components\\bookscomponents\\bookspage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|d:\\studing\\modsen\\librarymanager\\librarymanager.client\\src\\components\\borrowedbookscomponents\\borrowedbookdetailspage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|solutionrelative:librarymanager.client\\src\\components\\borrowedbookscomponents\\borrowedbookdetailspage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|d:\\studing\\modsen\\librarymanager\\librarymanager.client\\src\\components\\bookscomponents\\createbookpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|solutionrelative:librarymanager.client\\src\\components\\bookscomponents\\createbookpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\repositories\\borrowedbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\repositories\\borrowedbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\repositories\\iborrowedbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\repositories\\iborrowedbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\services\\borrowedbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\services\\borrowedbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\repositories\\igenrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\repositories\\igenrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\repositories\\userrefreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\repositories\\userrefreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|d:\\studing\\modsen\\librarymanager\\librarymanager.client\\src\\components\\borrowedbookscomponents\\deleteborrowedbookpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|solutionrelative:librarymanager.client\\src\\components\\borrowedbookscomponents\\deleteborrowedbookpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|d:\\studing\\modsen\\librarymanager\\librarymanager.client\\src\\services\\books.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|solutionrelative:librarymanager.client\\src\\services\\books.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|d:\\studing\\modsen\\librarymanager\\librarymanager.client\\src\\components\\borrowedbookscomponents\\createborrowedbookpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|solutionrelative:librarymanager.client\\src\\components\\borrowedbookscomponents\\createborrowedbookpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|d:\\studing\\modsen\\librarymanager\\librarymanager.client\\src\\components\\userscomponents\\updateuserpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|solutionrelative:librarymanager.client\\src\\components\\userscomponents\\updateuserpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|d:\\studing\\modsen\\librarymanager\\librarymanager.client\\src\\components\\userscomponents\\userspage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|solutionrelative:librarymanager.client\\src\\components\\userscomponents\\userspage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|d:\\studing\\modsen\\librarymanager\\librarymanager.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|solutionrelative:librarymanager.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\models\\borrowedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\models\\borrowedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\models\\userrefreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\models\\userrefreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\modelsdto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\modelsdto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|d:\\studing\\modsen\\librarymanager\\librarymanager.client\\src\\components\\userscomponents\\loginpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|solutionrelative:librarymanager.client\\src\\components\\userscomponents\\loginpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|d:\\studing\\modsen\\librarymanager\\librarymanager.client\\src\\utils\\provider.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|solutionrelative:librarymanager.client\\src\\utils\\provider.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|d:\\studing\\modsen\\librarymanager\\librarymanager.client\\src\\components\\authorscomponents\\authorspage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|solutionrelative:librarymanager.client\\src\\components\\authorscomponents\\authorspage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\converters\\dateonlyjsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\converters\\dateonlyjsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\modelsdto\\borrowedbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\modelsdto\\borrowedbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|d:\\studing\\modsen\\librarymanager\\librarymanager.client\\src\\components\\bookscomponents\\bookdetailspage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|solutionrelative:librarymanager.client\\src\\components\\bookscomponents\\bookdetailspage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|d:\\studing\\modsen\\librarymanager\\librarymanager.client\\src\\components\\genrescomponents\\genrespage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|solutionrelative:librarymanager.client\\src\\components\\genrescomponents\\genrespage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|d:\\studing\\modsen\\librarymanager\\librarymanager.client\\src\\services\\authors.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|solutionrelative:librarymanager.client\\src\\services\\authors.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\modelsdto\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\modelsdto\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\repositories\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\repositories\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\repositories\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\repositories\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\repositories\\iuserrefreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\repositories\\iuserrefreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\requesthelpers\\modelparameters\\userparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\requesthelpers\\modelparameters\\userparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\requesthelpers\\modelparameters\\genreparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\requesthelpers\\modelparameters\\genreparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\requesthelpers\\modelparameters\\borrowedbookparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\requesthelpers\\modelparameters\\borrowedbookparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\requesthelpers\\modelparameters\\bookparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\requesthelpers\\modelparameters\\bookparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\requesthelpers\\modelparameters\\authorparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\requesthelpers\\modelparameters\\authorparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\requesthelpers\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\requesthelpers\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\requesthelpers\\metadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\requesthelpers\\metadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\requesthelpers\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\requesthelpers\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\requesthelpers\\refreshtokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\requesthelpers\\refreshtokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\requesthelpers\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\requesthelpers\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\requesthelpers\\requestparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\requesthelpers\\requestparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\services\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\services\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|d:\\studing\\modsen\\librarymanager\\librarymanager.client\\src\\components\\bookscomponents\\updatebookpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|solutionrelative:librarymanager.client\\src\\components\\bookscomponents\\updatebookpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|d:\\studing\\modsen\\librarymanager\\librarymanager.client\\src\\components\\userscomponents\\registrationpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|solutionrelative:librarymanager.client\\src\\components\\userscomponents\\registrationpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|d:\\studing\\modsen\\librarymanager\\librarymanager.client\\src\\components\\userscomponents\\userdetailspage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|solutionrelative:librarymanager.client\\src\\components\\userscomponents\\userdetailspage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|d:\\studing\\modsen\\librarymanager\\librarymanager.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|solutionrelative:librarymanager.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|d:\\studing\\modsen\\librarymanager\\librarymanager.client\\src\\components\\genrescomponents\\genredetailspage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|solutionrelative:librarymanager.client\\src\\components\\genrescomponents\\genredetailspage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|d:\\studing\\modsen\\librarymanager\\librarymanager.client\\src\\components\\authorscomponents\\authordetailspage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|solutionrelative:librarymanager.client\\src\\components\\authorscomponents\\authordetailspage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\modelsdto\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\modelsdto\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|d:\\studing\\modsen\\librarymanager\\librarymanager.server\\modelsdto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB552049-908C-41AC-BF95-24BA5F2DAF0E}|LibraryManager.Server\\LibraryManager.Server.csproj|solutionrelative:librarymanager.server\\modelsdto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|d:\\studing\\modsen\\librarymanager\\librarymanager.client\\src\\styles\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9D146B37-15C9-0396-D304-1D22A6940DE2}|librarymanager.client\\librarymanager.client.esproj|solutionrelative:librarymanager.client\\src\\styles\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 74,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "LibraryManager.Server\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T17:46:43.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.jsx",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "librarymanager.client\\src\\App.jsx",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\App.jsx",
+              "RelativeToolTip": "librarymanager.client\\src\\App.jsx",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAJAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-16T22:16:06.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "loginPost.js",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\services\\loginPost.js",
+              "RelativeDocumentMoniker": "librarymanager.client\\src\\services\\loginPost.js",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\services\\loginPost.js",
+              "RelativeToolTip": "librarymanager.client\\src\\services\\loginPost.js",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-17T04:47:12.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "users.js",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\services\\users.js",
+              "RelativeDocumentMoniker": "librarymanager.client\\src\\services\\users.js",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\services\\users.js",
+              "RelativeToolTip": "librarymanager.client\\src\\services\\users.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-16T20:20:58.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "axiosSetup.jsx",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\components\\axiosSetup.jsx",
+              "RelativeDocumentMoniker": "librarymanager.client\\src\\components\\axiosSetup.jsx",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\components\\axiosSetup.jsx",
+              "RelativeToolTip": "librarymanager.client\\src\\components\\axiosSetup.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-17T04:47:09.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\Services\\IUserService.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Services\\IUserService.cs",
+              "RelativeToolTip": "LibraryManager.Server\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T16:28:10.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IGenreService.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Services\\IGenreService.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\Services\\IGenreService.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Services\\IGenreService.cs",
+              "RelativeToolTip": "LibraryManager.Server\\Services\\IGenreService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:32:00.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBorrowedBookService.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Services\\IBorrowedBookService.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\Services\\IBorrowedBookService.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Services\\IBorrowedBookService.cs",
+              "RelativeToolTip": "LibraryManager.Server\\Services\\IBorrowedBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:32:00.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Services\\IBookService.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\Services\\IBookService.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Services\\IBookService.cs",
+              "RelativeToolTip": "LibraryManager.Server\\Services\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:14:25.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAuthorService.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Services\\IAuthorService.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\Services\\IAuthorService.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Services\\IAuthorService.cs",
+              "RelativeToolTip": "LibraryManager.Server\\Services\\IAuthorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:32:04.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "LibraryManager.Server\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T16:53:53.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\Models\\Author.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Models\\Author.cs",
+              "RelativeToolTip": "LibraryManager.Server\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T11:46:15.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "borrowedBooks.js",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\services\\borrowedBooks.js",
+              "RelativeDocumentMoniker": "librarymanager.client\\src\\services\\borrowedBooks.js",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\services\\borrowedBooks.js",
+              "RelativeToolTip": "librarymanager.client\\src\\services\\borrowedBooks.js",
+              "ViewState": "AgIAAD4AAAAAAAAAAADwv1gAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-17T02:54:21.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "LibraryManager.Server\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAABBwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T15:15:18.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BorrowedBooksController.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Controllers\\BorrowedBooksController.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\Controllers\\BorrowedBooksController.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Controllers\\BorrowedBooksController.cs",
+              "RelativeToolTip": "LibraryManager.Server\\Controllers\\BorrowedBooksController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAABBwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T04:44:12.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BorrowedBooksPage.jsx",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\components\\BorrowedBooksComponents\\BorrowedBooksPage.jsx",
+              "RelativeDocumentMoniker": "librarymanager.client\\src\\components\\BorrowedBooksComponents\\BorrowedBooksPage.jsx",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\components\\BorrowedBooksComponents\\BorrowedBooksPage.jsx",
+              "RelativeToolTip": "librarymanager.client\\src\\components\\BorrowedBooksComponents\\BorrowedBooksPage.jsx",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwFkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-16T14:13:45.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BooksPage.jsx",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\components\\BooksComponents\\BooksPage.jsx",
+              "RelativeDocumentMoniker": "librarymanager.client\\src\\components\\BooksComponents\\BooksPage.jsx",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\components\\BooksComponents\\BooksPage.jsx",
+              "RelativeToolTip": "librarymanager.client\\src\\components\\BooksComponents\\BooksPage.jsx",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAuwBUBAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-17T09:36:54.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BorrowedBookDetailsPage.jsx",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\components\\BorrowedBooksComponents\\BorrowedBookDetailsPage.jsx",
+              "RelativeDocumentMoniker": "librarymanager.client\\src\\components\\BorrowedBooksComponents\\BorrowedBookDetailsPage.jsx",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\components\\BorrowedBooksComponents\\BorrowedBookDetailsPage.jsx",
+              "RelativeToolTip": "librarymanager.client\\src\\components\\BorrowedBooksComponents\\BorrowedBookDetailsPage.jsx",
+              "ViewState": "AgIAAEMAAAAAAAAAAABBwCMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-17T02:20:39.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateBookPage.jsx",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\components\\BooksComponents\\CreateBookPage.jsx",
+              "RelativeDocumentMoniker": "librarymanager.client\\src\\components\\BooksComponents\\CreateBookPage.jsx",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\components\\BooksComponents\\CreateBookPage.jsx",
+              "RelativeToolTip": "librarymanager.client\\src\\components\\BooksComponents\\CreateBookPage.jsx",
+              "ViewState": "AgIAAKAAAAAAAAAAAABBwLMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-17T04:55:12.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BorrowedBookRepository.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Repositories\\BorrowedBookRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\Repositories\\BorrowedBookRepository.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Repositories\\BorrowedBookRepository.cs",
+              "RelativeToolTip": "LibraryManager.Server\\Repositories\\BorrowedBookRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAABBwBQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:20:08.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IBorrowedBookRepository.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Repositories\\IBorrowedBookRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\Repositories\\IBorrowedBookRepository.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Repositories\\IBorrowedBookRepository.cs",
+              "RelativeToolTip": "LibraryManager.Server\\Repositories\\IBorrowedBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:32:22.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BorrowedBookService.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Services\\BorrowedBookService.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\Services\\BorrowedBookService.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Services\\BorrowedBookService.cs",
+              "RelativeToolTip": "LibraryManager.Server\\Services\\BorrowedBookService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAewBgAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:32:05.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\Controllers\\AuthorsController.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "LibraryManager.Server\\Controllers\\AuthorsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAABBwBcAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T23:52:40.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthorRepository.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Repositories\\AuthorRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\Repositories\\AuthorRepository.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Repositories\\AuthorRepository.cs",
+              "RelativeToolTip": "LibraryManager.Server\\Repositories\\AuthorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:22:18.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IGenreRepository.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Repositories\\IGenreRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\Repositories\\IGenreRepository.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Repositories\\IGenreRepository.cs",
+              "RelativeToolTip": "LibraryManager.Server\\Repositories\\IGenreRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:32:23.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "LibraryManager.Server\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAABBwCsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:20:03.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\Services\\UserService.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Services\\UserService.cs",
+              "RelativeToolTip": "LibraryManager.Server\\Services\\UserService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAABBwFcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:31:41.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserRefreshTokenRepository.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Repositories\\UserRefreshTokenRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\Repositories\\UserRefreshTokenRepository.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Repositories\\UserRefreshTokenRepository.cs",
+              "RelativeToolTip": "LibraryManager.Server\\Repositories\\UserRefreshTokenRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAABBwAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T17:27:19.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\Repositories\\BookRepository.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "LibraryManager.Server\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAABBwEQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T15:17:23.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DeleteBorrowedBookPage.jsx",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\components\\BorrowedBooksComponents\\DeleteBorrowedBookPage.jsx",
+              "RelativeDocumentMoniker": "librarymanager.client\\src\\components\\BorrowedBooksComponents\\DeleteBorrowedBookPage.jsx",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\components\\BorrowedBooksComponents\\DeleteBorrowedBookPage.jsx",
+              "RelativeToolTip": "librarymanager.client\\src\\components\\BorrowedBooksComponents\\DeleteBorrowedBookPage.jsx",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwDUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-17T02:18:58.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "books.js",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\services\\books.js",
+              "RelativeDocumentMoniker": "librarymanager.client\\src\\services\\books.js",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\services\\books.js",
+              "RelativeToolTip": "librarymanager.client\\src\\services\\books.js",
+              "ViewState": "AgIAACgAAAAAAAAAAAAewDIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-17T07:02:33.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\Services\\TokenService.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Services\\TokenService.cs",
+              "RelativeToolTip": "LibraryManager.Server\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:31:18.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\LibraryContext.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\LibraryContext.cs",
+              "RelativeToolTip": "LibraryManager.Server\\LibraryContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:08:13.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\Program.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Program.cs",
+              "RelativeToolTip": "LibraryManager.Server\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAABBwDEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:09:28.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\Services\\BookService.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Services\\BookService.cs",
+              "RelativeToolTip": "LibraryManager.Server\\Services\\BookService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAABBwDgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:09:29.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CreateBorrowedBookPage.jsx",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\components\\BorrowedBooksComponents\\CreateBorrowedBookPage.jsx",
+              "RelativeDocumentMoniker": "librarymanager.client\\src\\components\\BorrowedBooksComponents\\CreateBorrowedBookPage.jsx",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\components\\BorrowedBooksComponents\\CreateBorrowedBookPage.jsx",
+              "RelativeToolTip": "librarymanager.client\\src\\components\\BorrowedBooksComponents\\CreateBorrowedBookPage.jsx",
+              "ViewState": "AgIAAE8AAAAAAAAAAABBwJIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-17T02:22:49.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UpdateUserPage.jsx",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\components\\UsersComponents\\UpdateUserPage.jsx",
+              "RelativeDocumentMoniker": "librarymanager.client\\src\\components\\UsersComponents\\UpdateUserPage.jsx",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\components\\UsersComponents\\UpdateUserPage.jsx",
+              "RelativeToolTip": "librarymanager.client\\src\\components\\UsersComponents\\UpdateUserPage.jsx",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAuwGYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-17T10:22:16.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UsersPage.jsx",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\components\\UsersComponents\\UsersPage.jsx",
+              "RelativeDocumentMoniker": "librarymanager.client\\src\\components\\UsersComponents\\UsersPage.jsx",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\components\\UsersComponents\\UsersPage.jsx",
+              "RelativeToolTip": "librarymanager.client\\src\\components\\UsersComponents\\UsersPage.jsx",
+              "ViewState": "AgIAACcAAAAAAAAAAAAuwD4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-17T10:14:06.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\Models\\User.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Models\\User.cs",
+              "RelativeToolTip": "LibraryManager.Server\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T15:42:32.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "main.jsx",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "librarymanager.client\\src\\main.jsx",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\main.jsx",
+              "RelativeToolTip": "librarymanager.client\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-16T23:57:53.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "LibraryManager.Server\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:14:58.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BorrowedBook.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Models\\BorrowedBook.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\Models\\BorrowedBook.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Models\\BorrowedBook.cs",
+              "RelativeToolTip": "LibraryManager.Server\\Models\\BorrowedBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T07:23:30.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\Repositories\\IUserRepository.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "LibraryManager.Server\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T16:28:34.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UserRefreshToken.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Models\\UserRefreshToken.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\Models\\UserRefreshToken.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Models\\UserRefreshToken.cs",
+              "RelativeToolTip": "LibraryManager.Server\\Models\\UserRefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T17:31:04.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\Repositories\\IBookRepository.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "LibraryManager.Server\\Repositories\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T08:33:34.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\Models\\Book.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryManager.Server\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T08:33:22.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "LoginPage.jsx",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\components\\UsersComponents\\LoginPage.jsx",
+              "RelativeDocumentMoniker": "librarymanager.client\\src\\components\\UsersComponents\\LoginPage.jsx",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\components\\UsersComponents\\LoginPage.jsx",
+              "RelativeToolTip": "librarymanager.client\\src\\components\\UsersComponents\\LoginPage.jsx",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAwEMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-16T20:20:34.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\ModelsDTO\\BookDTO.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\ModelsDTO\\BookDTO.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\ModelsDTO\\BookDTO.cs",
+              "RelativeToolTip": "LibraryManager.Server\\ModelsDTO\\BookDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:13:17.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "provider.jsx",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\utils\\provider.jsx",
+              "RelativeDocumentMoniker": "librarymanager.client\\src\\utils\\provider.jsx",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\utils\\provider.jsx",
+              "RelativeToolTip": "librarymanager.client\\src\\utils\\provider.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-17T05:04:09.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AuthorsPage.jsx",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\components\\AuthorsComponents\\AuthorsPage.jsx",
+              "RelativeDocumentMoniker": "librarymanager.client\\src\\components\\AuthorsComponents\\AuthorsPage.jsx",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\components\\AuthorsComponents\\AuthorsPage.jsx",
+              "RelativeToolTip": "librarymanager.client\\src\\components\\AuthorsComponents\\AuthorsPage.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-17T07:42:41.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "DateOnlyJsonConverter.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Converters\\DateOnlyJsonConverter.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\Converters\\DateOnlyJsonConverter.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Converters\\DateOnlyJsonConverter.cs",
+              "RelativeToolTip": "LibraryManager.Server\\Converters\\DateOnlyJsonConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T07:30:03.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "BorrowedBookDTO.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\ModelsDTO\\BorrowedBookDTO.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\ModelsDTO\\BorrowedBookDTO.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\ModelsDTO\\BorrowedBookDTO.cs",
+              "RelativeToolTip": "LibraryManager.Server\\ModelsDTO\\BorrowedBookDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T07:24:25.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "BookDetailsPage.jsx",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\components\\BooksComponents\\BookDetailsPage.jsx",
+              "RelativeDocumentMoniker": "librarymanager.client\\src\\components\\BooksComponents\\BookDetailsPage.jsx",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\components\\BooksComponents\\BookDetailsPage.jsx",
+              "RelativeToolTip": "librarymanager.client\\src\\components\\BooksComponents\\BookDetailsPage.jsx",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-17T02:00:43.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "GenresPage.jsx",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\components\\GenresComponents\\GenresPage.jsx",
+              "RelativeDocumentMoniker": "librarymanager.client\\src\\components\\GenresComponents\\GenresPage.jsx",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\components\\GenresComponents\\GenresPage.jsx",
+              "RelativeToolTip": "librarymanager.client\\src\\components\\GenresComponents\\GenresPage.jsx",
+              "ViewState": "AgIAABkAAAAAAAAAAABBwBsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-16T14:14:12.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "authors.js",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\services\\authors.js",
+              "RelativeDocumentMoniker": "librarymanager.client\\src\\services\\authors.js",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\services\\authors.js",
+              "RelativeToolTip": "librarymanager.client\\src\\services\\authors.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-17T00:32:23.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "GenresController.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Controllers\\GenresController.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\Controllers\\GenresController.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Controllers\\GenresController.cs",
+              "RelativeToolTip": "LibraryManager.Server\\Controllers\\GenresController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAABBwEoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T23:53:18.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "LibraryManager.Server\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:32:30.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "GenreDTO.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\ModelsDTO\\GenreDTO.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\ModelsDTO\\GenreDTO.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\ModelsDTO\\GenreDTO.cs",
+              "RelativeToolTip": "LibraryManager.Server\\ModelsDTO\\GenreDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:32:27.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "GenreRepository.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Repositories\\GenreRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\Repositories\\GenreRepository.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Repositories\\GenreRepository.cs",
+              "RelativeToolTip": "LibraryManager.Server\\Repositories\\GenreRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:19:59.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IAuthorRepository.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Repositories\\IAuthorRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\Repositories\\IAuthorRepository.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Repositories\\IAuthorRepository.cs",
+              "RelativeToolTip": "LibraryManager.Server\\Repositories\\IAuthorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:32:24.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IUserRefreshTokenRepository.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Repositories\\IUserRefreshTokenRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\Repositories\\IUserRefreshTokenRepository.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Repositories\\IUserRefreshTokenRepository.cs",
+              "RelativeToolTip": "LibraryManager.Server\\Repositories\\IUserRefreshTokenRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T17:26:52.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "UserParameters.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\RequestHelpers\\ModelParameters\\UserParameters.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\RequestHelpers\\ModelParameters\\UserParameters.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\RequestHelpers\\ModelParameters\\UserParameters.cs",
+              "RelativeToolTip": "LibraryManager.Server\\RequestHelpers\\ModelParameters\\UserParameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:32:17.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "GenreParameters.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\RequestHelpers\\ModelParameters\\GenreParameters.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\RequestHelpers\\ModelParameters\\GenreParameters.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\RequestHelpers\\ModelParameters\\GenreParameters.cs",
+              "RelativeToolTip": "LibraryManager.Server\\RequestHelpers\\ModelParameters\\GenreParameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:32:17.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "BorrowedBookParameters.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\RequestHelpers\\ModelParameters\\BorrowedBookParameters.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\RequestHelpers\\ModelParameters\\BorrowedBookParameters.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\RequestHelpers\\ModelParameters\\BorrowedBookParameters.cs",
+              "RelativeToolTip": "LibraryManager.Server\\RequestHelpers\\ModelParameters\\BorrowedBookParameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:32:16.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AuthorParameters.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\RequestHelpers\\ModelParameters\\AuthorParameters.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\RequestHelpers\\ModelParameters\\AuthorParameters.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\RequestHelpers\\ModelParameters\\AuthorParameters.cs",
+              "RelativeToolTip": "LibraryManager.Server\\RequestHelpers\\ModelParameters\\AuthorParameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:23:53.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "BookParameters.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\RequestHelpers\\ModelParameters\\BookParameters.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\RequestHelpers\\ModelParameters\\BookParameters.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\RequestHelpers\\ModelParameters\\BookParameters.cs",
+              "RelativeToolTip": "LibraryManager.Server\\RequestHelpers\\ModelParameters\\BookParameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:23:59.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\RequestHelpers\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\RequestHelpers\\LoginRequest.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\RequestHelpers\\LoginRequest.cs",
+              "RelativeToolTip": "LibraryManager.Server\\RequestHelpers\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:32:13.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "RefreshTokenRequest.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\RequestHelpers\\RefreshTokenRequest.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\RequestHelpers\\RefreshTokenRequest.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\RequestHelpers\\RefreshTokenRequest.cs",
+              "RelativeToolTip": "LibraryManager.Server\\RequestHelpers\\RefreshTokenRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:32:11.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "PagedList.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\RequestHelpers\\PagedList.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\RequestHelpers\\PagedList.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\RequestHelpers\\PagedList.cs",
+              "RelativeToolTip": "LibraryManager.Server\\RequestHelpers\\PagedList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T15:18:35.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "MetaData.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\RequestHelpers\\MetaData.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\RequestHelpers\\MetaData.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\RequestHelpers\\MetaData.cs",
+              "RelativeToolTip": "LibraryManager.Server\\RequestHelpers\\MetaData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T15:19:02.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "RequestParameters.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\RequestHelpers\\RequestParameters.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\RequestHelpers\\RequestParameters.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\RequestHelpers\\RequestParameters.cs",
+              "RelativeToolTip": "LibraryManager.Server\\RequestHelpers\\RequestParameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:32:10.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\RequestHelpers\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\RequestHelpers\\RegisterRequest.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\RequestHelpers\\RegisterRequest.cs",
+              "RelativeToolTip": "LibraryManager.Server\\RequestHelpers\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:39:21.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "AuthorService.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Services\\AuthorService.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\Services\\AuthorService.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Services\\AuthorService.cs",
+              "RelativeToolTip": "LibraryManager.Server\\Services\\AuthorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:06:04.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "GenreService.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Services\\GenreService.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\Services\\GenreService.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Services\\GenreService.cs",
+              "RelativeToolTip": "LibraryManager.Server\\Services\\GenreService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:32:05.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Services\\ITokenService.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\Services\\ITokenService.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Services\\ITokenService.cs",
+              "RelativeToolTip": "LibraryManager.Server\\Services\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:31:06.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "UpdateBookPage.jsx",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\components\\BooksComponents\\UpdateBookPage.jsx",
+              "RelativeDocumentMoniker": "librarymanager.client\\src\\components\\BooksComponents\\UpdateBookPage.jsx",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\components\\BooksComponents\\UpdateBookPage.jsx",
+              "RelativeToolTip": "librarymanager.client\\src\\components\\BooksComponents\\UpdateBookPage.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-17T01:12:06.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "RegistrationPage.jsx",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\components\\UsersComponents\\RegistrationPage.jsx",
+              "RelativeDocumentMoniker": "librarymanager.client\\src\\components\\UsersComponents\\RegistrationPage.jsx",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\components\\UsersComponents\\RegistrationPage.jsx",
+              "RelativeToolTip": "librarymanager.client\\src\\components\\UsersComponents\\RegistrationPage.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-16T20:20:42.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "UserDetailsPage.jsx",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\components\\UsersComponents\\UserDetailsPage.jsx",
+              "RelativeDocumentMoniker": "librarymanager.client\\src\\components\\UsersComponents\\UserDetailsPage.jsx",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\components\\UsersComponents\\UserDetailsPage.jsx",
+              "RelativeToolTip": "librarymanager.client\\src\\components\\UsersComponents\\UserDetailsPage.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-16T23:42:18.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "package.json",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\package.json",
+              "RelativeDocumentMoniker": "librarymanager.client\\package.json",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\package.json",
+              "RelativeToolTip": "librarymanager.client\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-17T00:32:52.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\appsettings.json",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\appsettings.json",
+              "RelativeToolTip": "LibraryManager.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T15:44:24.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "GenreDetailsPage.jsx",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\components\\GenresComponents\\GenreDetailsPage.jsx",
+              "RelativeDocumentMoniker": "librarymanager.client\\src\\components\\GenresComponents\\GenreDetailsPage.jsx",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\components\\GenresComponents\\GenreDetailsPage.jsx",
+              "RelativeToolTip": "librarymanager.client\\src\\components\\GenresComponents\\GenreDetailsPage.jsx",
+              "ViewState": "AgIAAC8AAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-16T14:14:12.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "AuthorDetailsPage.jsx",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\components\\AuthorsComponents\\AuthorDetailsPage.jsx",
+              "RelativeDocumentMoniker": "librarymanager.client\\src\\components\\AuthorsComponents\\AuthorDetailsPage.jsx",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\components\\AuthorsComponents\\AuthorDetailsPage.jsx",
+              "RelativeToolTip": "librarymanager.client\\src\\components\\AuthorsComponents\\AuthorDetailsPage.jsx",
+              "ViewState": "AgIAAAwAAAAAAAAAAABRwCAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-16T13:49:50.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "LibraryManager.Server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T22:17:15.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "AuthorDTO.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\ModelsDTO\\AuthorDTO.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\ModelsDTO\\AuthorDTO.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\ModelsDTO\\AuthorDTO.cs",
+              "RelativeToolTip": "LibraryManager.Server\\ModelsDTO\\AuthorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:19:21.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\ModelsDTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "LibraryManager.Server\\ModelsDTO\\UserDTO.cs",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\LibraryManager.Server\\ModelsDTO\\UserDTO.cs",
+              "RelativeToolTip": "LibraryManager.Server\\ModelsDTO\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T15:42:30.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "App.css",
+              "DocumentMoniker": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\styles\\App.css",
+              "RelativeDocumentMoniker": "librarymanager.client\\src\\styles\\App.css",
+              "ToolTip": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\src\\styles\\App.css",
+              "RelativeToolTip": "librarymanager.client\\src\\styles\\App.css",
+              "ViewState": "AgIAAIMAAAAAAAAAAABRwIEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-16T13:37:24.064Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

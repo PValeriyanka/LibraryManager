@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "4F4ngvZOwbjizemn7vEBHJ8U8osvaOUrKDjIqch1Zrg=",
+  "Source": "LibraryManager.Server",
+  "BasePath": "_content/LibraryManager.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\Studing\\MODSEN\\LibraryManager\\librarymanager.client\\librarymanager.client.esproj",
+      "Version": 2,
+      "Source": "librarymanager.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
