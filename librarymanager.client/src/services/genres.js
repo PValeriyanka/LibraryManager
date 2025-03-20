@@ -1,10 +1,12 @@
 import axios from 'axios';
 
+const apiUrl = import.meta.env.VITE_API_URL;  
+
 export const fetchAllGenres = async (params) => {
     try {
         const token = localStorage.getItem('accessToken');
 
-        const response = await axios.get("/api/genres", {
+        const response = await axios.get(`${apiUrl}/api/genres`, {
             params,
             headers: {
                 Authorization: `Bearer ${token}`,
@@ -14,7 +16,7 @@ export const fetchAllGenres = async (params) => {
         const metaDataHeader = response.headers['x-pagination'];
         const metaData = metaDataHeader ? JSON.parse(metaDataHeader) : null;
 
-        const genres = response.data.$values || []; 
+        const genres = response.data.$values || [];
 
         return {
             data: genres,
@@ -30,7 +32,7 @@ export const fetchGenres = async () => {
     try {
         const token = localStorage.getItem('accessToken');
 
-        const response = await axios.get("/api/genres/withoutmeta", {
+        const response = await axios.get(`${apiUrl}/api/genres/withoutmeta`, {
             headers: {
                 Authorization: `Bearer ${token}`,
             },
@@ -48,7 +50,7 @@ export const fetchGenres = async () => {
 export const getGenreById = async (id) => {
     try {
         const token = localStorage.getItem('accessToken');
-        const response = await axios.get(`/api/genres/${id}`, {
+        const response = await axios.get(`${apiUrl}/api/genres/${id}`, {
             headers: {
                 Authorization: `Bearer ${token}`,
             },
@@ -64,7 +66,7 @@ export const getGenreById = async (id) => {
 
 export const createGenre = async (genre) => {
     const token = localStorage.getItem('accessToken');
-    const response = await axios.post('/api/genres', genre, {
+    const response = await axios.post(`${apiUrl}/api/genres`, genre, {
         headers: {
             Authorization: `Bearer ${token}`,
         },
@@ -74,7 +76,7 @@ export const createGenre = async (genre) => {
 
 export const updateGenre = async (id, genre) => {
     const token = localStorage.getItem('accessToken');
-    const response = await axios.put(`api/genres/${id}`, genre, {
+    const response = await axios.put(`${apiUrl}/api/genres/${id}`, genre, {
         headers: {
             Authorization: `Bearer ${token}`,
         },
@@ -86,7 +88,7 @@ export const deleteGenre = async (id) => {
     try {
         const token = localStorage.getItem('accessToken');
 
-        await axios.delete(`/api/genres/${id}`, {
+        await axios.delete(`${apiUrl}/api/genres/${id}`, {
             headers: {
                 Authorization: `Bearer ${token}`,
             },

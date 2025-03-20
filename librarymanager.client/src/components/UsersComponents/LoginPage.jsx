@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { loginPost } from '../../services/loginPost';
 import { useNavigate } from 'react-router-dom';
-import { refreshToken } from '../../services/loginPost'; // Убедитесь, что функция refreshToken импортирована
+import { refreshToken } from '../../services/loginPost'; 
 import '../../styles/App.css';
 
 const LoginPage = () => {
@@ -116,7 +116,7 @@ const LoginPage = () => {
                                         onChange={(e) => setLogin(e.target.value)}
                                         required
                                     />
-                                    {loginError && <span className="text-danger">{loginError}</span>}
+                                    {loginError && <span className="text-danger"> Invalid login!</span>}
                                 </td>
                             </tr>
                             <tr>
@@ -131,7 +131,7 @@ const LoginPage = () => {
                                         onChange={(e) => setPassword(e.target.value)}
                                         required
                                     />
-                                    {passwordError && <span className="text-danger">{passwordError}</span>}
+                                    {passwordError && <span className="text-danger"> Invalid password!</span>}
                                 </td>
                             </tr>
                         </tbody>
@@ -143,7 +143,7 @@ const LoginPage = () => {
                         </button>
                     </div>
                 </form>
-                {generalError && <div className="text-danger">{generalError}</div>}
+                {generalError && <div className="text-danger">There was an error logging in!</div>}
             </section>
         </div>
     );

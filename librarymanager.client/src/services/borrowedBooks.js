@@ -1,14 +1,16 @@
 import axios from 'axios';
 
+const apiUrl = import.meta.env.VITE_API_URL; 
+
 export const fetchAllBorrowedBooks = async (params) => {
     try {
         const token = localStorage.getItem('accessToken');
         const username = localStorage.getItem('userName');
 
-        const response = await axios.get("/api/borrowedBooks", {
+        const response = await axios.get(`${apiUrl}/api/borrowedBooks`, {
             params: {
                 ...params,
-                 email: username,
+                email: username,
             },
             headers: {
                 Authorization: `Bearer ${token}`,
@@ -18,7 +20,7 @@ export const fetchAllBorrowedBooks = async (params) => {
         const metaDataHeader = response.headers['x-pagination'];
         const metaData = metaDataHeader ? JSON.parse(metaDataHeader) : null;
 
-        const borrowedBooks = response.data.$values || [];  
+        const borrowedBooks = response.data.$values || [];
 
         return {
             data: borrowedBooks,
@@ -34,7 +36,7 @@ export const fetchBorrowedBooks = async () => {
     try {
         const token = localStorage.getItem('accessToken');
 
-        const response = await axios.get("/api/borrowedBooks/withoutmeta", {
+        const response = await axios.get(`${apiUrl}/api/borrowedBooks/withoutmeta`, {
             headers: {
                 Authorization: `Bearer ${token}`,
             },
@@ -52,7 +54,7 @@ export const fetchBorrowedBooks = async () => {
 export const getBorrowedBookById = async (id) => {
     try {
         const token = localStorage.getItem('accessToken');
-        const response = await axios.get(`/api/borrowedBooks/${id}`, {
+        const response = await axios.get(`${apiUrl}/api/borrowedBooks/${id}`, {
             headers: {
                 Authorization: `Bearer ${token}`,
             },
@@ -69,7 +71,7 @@ export const getBorrowedBookById = async (id) => {
 export const createBorrowedBook = async (borrowedBook, userName) => {
 
     const token = localStorage.getItem('accessToken');
-    const response = await axios.post('/api/borrowedBooks', borrowedBook, {
+    const response = await axios.post(`${apiUrl}/api/borrowedBooks`, borrowedBook, {
         headers: {
             Authorization: `Bearer ${token}`,
         },
@@ -82,7 +84,7 @@ export const createBorrowedBook = async (borrowedBook, userName) => {
 
 export const updateBorrowedBook = async (id, borrowedBook) => {
     const token = localStorage.getItem('accessToken');
-    const response = await axios.put(`/api/borrowedBooks/${id}`, borrowedBook, {
+    const response = await axios.put(`${apiUrl}/api/borrowedBooks/${id}`, borrowedBook, {
         headers: {
             Authorization: `Bearer ${token}`,
         },
@@ -94,7 +96,7 @@ export const deleteBorrowedBook = async (id) => {
     try {
         const token = localStorage.getItem('accessToken');
 
-        await axios.delete(`/api/borrowedBooks/${id}`, {
+        await axios.delete(`${apiUrl}/api/borrowedBooks/${id}`, {
             headers: {
                 Authorization: `Bearer ${token}`,
             },

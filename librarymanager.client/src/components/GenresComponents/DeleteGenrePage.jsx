@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
 import { getGenreById, deleteGenre } from '../../services/genres';
-import '../../styles/App.css'; // Import the styles file
+import '../../styles/App.css'; 
 
 function DeleteGenrePage() {
     const { id } = useParams();

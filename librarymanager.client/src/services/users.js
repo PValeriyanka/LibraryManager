@@ -1,10 +1,11 @@
 import axios from 'axios';
 
+const apiUrl = import.meta.env.VITE_API_URL;  
 export const fetchAllUsers = async (params) => {
     try {
         const token = localStorage.getItem('accessToken');
 
-        const response = await axios.get("/api/users", {
+        const response = await axios.get(`${apiUrl}/api/users`, {
             params,
             headers: {
                 Authorization: `Bearer ${token}`,
@@ -14,7 +15,7 @@ export const fetchAllUsers = async (params) => {
         const metaDataHeader = response.headers['x-pagination'];
         const metaData = metaDataHeader ? JSON.parse(metaDataHeader) : null;
 
-        const users = response.data.$values || []; 
+        const users = response.data.$values || [];
 
         return {
             data: users,
@@ -30,7 +31,7 @@ export const fetchUsers = async () => {
     try {
         const token = localStorage.getItem('accessToken');
 
-        const response = await axios.get("/api/users/withoutmeta", {
+        const response = await axios.get(`${apiUrl}/api/users/withoutmeta`, {
             headers: {
                 Authorization: `Bearer ${token}`,
             },
@@ -45,11 +46,10 @@ export const fetchUsers = async () => {
     }
 };
 
-
 export const getUserById = async (id) => {
     try {
         const token = localStorage.getItem('accessToken');
-        const response = await axios.get(`/api/users/${id}`, {
+        const response = await axios.get(`${apiUrl}/api/users/${id}`, {
             headers: {
                 Authorization: `Bearer ${token}`,
             },
@@ -63,7 +63,7 @@ export const getUserById = async (id) => {
 
 export const createUser = async (user) => {
     const token = localStorage.getItem('accessToken');
-    const response = await axios.post('/api/users', user, {
+    const response = await axios.post(`${apiUrl}/api/users`, user, {
         headers: {
             Authorization: `Bearer ${token}`,
         },
@@ -73,7 +73,7 @@ export const createUser = async (user) => {
 
 export const updateUser = async (id, user) => {
     const token = localStorage.getItem('accessToken');
-    const response = await axios.put(`/api/users/${id}`, user, {
+    const response = await axios.put(`${apiUrl}/api/users/${id}`, user, {
         headers: {
             Authorization: `Bearer ${token}`,
         },
@@ -85,7 +85,7 @@ export const deleteUser = async (id) => {
     try {
         const token = localStorage.getItem('accessToken');
 
-        await axios.delete(`/api/users/${id}`, {
+        await axios.delete(`${apiUrl}/api/users/${id}`, {
             headers: {
                 Authorization: `Bearer ${token}`,
             },

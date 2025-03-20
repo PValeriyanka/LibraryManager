@@ -8,8 +8,15 @@
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
 	<SpaRoot>..\librarymanager.client</SpaRoot>
 	<SpaProxyLaunchCommand>npm run dev</SpaProxyLaunchCommand>
-	<SpaProxyServerUrl>https://localhost:51575</SpaProxyServerUrl>
+	<SpaProxyServerUrl>https://localhost:5000</SpaProxyServerUrl>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Core\**" />
+    <Content Remove="Core\**" />
+    <EmbeddedResource Remove="Core\**" />
+    <None Remove="Core\**" />
+  </ItemGroup>
 
   <ItemGroup>
 	<PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
@@ -41,9 +48,6 @@
 
   <ItemGroup>
     <Folder Include="API\" />
-    <Folder Include="Core\Domain\" />
-    <Folder Include="Core\Application\" />
-    <Folder Include="Core\Common\" />
     <Folder Include="Infrastructure\" />
   </ItemGroup>
 

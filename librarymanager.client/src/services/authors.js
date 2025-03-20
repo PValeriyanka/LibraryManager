@@ -1,10 +1,12 @@
 import axios from 'axios';
 
+const apiUrl = import.meta.env.VITE_API_URL;
+
 export const fetchAllAuthors = async (params) => {
     try {
         const token = localStorage.getItem('accessToken');
 
-        const response = await axios.get("/api/authors", {
+        const response = await axios.get(`${apiUrl}/api/authors`, {
             params,
             headers: {
                 Authorization: `Bearer ${token}`,
@@ -30,7 +32,7 @@ export const fetchAuthors = async () => {
     try {
         const token = localStorage.getItem('accessToken');
 
-        const response = await axios.get("/api/authors/withoutmeta", {
+        const response = await axios.get(`${apiUrl}/api/authors/withoutmeta`, {
             headers: {
                 Authorization: `Bearer ${token}`,
             },
@@ -48,7 +50,7 @@ export const fetchAuthors = async () => {
 export const getAuthorById = async (id) => {
     try {
         const token = localStorage.getItem('accessToken');
-        const response = await axios.get(`/api/authors/${id}`, {
+        const response = await axios.get(`${apiUrl}/api/authors/${id}`, {
             headers: {
                 Authorization: `Bearer ${token}`,
             },
@@ -63,7 +65,7 @@ export const getAuthorById = async (id) => {
 
 export const createAuthor = async (author) => {
     const token = localStorage.getItem('accessToken');
-    const response = await axios.post('/api/authors', author, {
+    const response = await axios.post(`${apiUrl}/api/authors`, author, {
         headers: {
             Authorization: `Bearer ${token}`,
         },
@@ -73,7 +75,7 @@ export const createAuthor = async (author) => {
 
 export const updateAuthor = async (id, author) => {
     const token = localStorage.getItem('accessToken');
-    const response = await axios.put(`/api/authors/${id}`, author, {
+    const response = await axios.put(`${apiUrl}/api/authors/${id}`, author, {
         headers: {
             Authorization: `Bearer ${token}`,
         },
@@ -85,7 +87,7 @@ export const deleteAuthor = async (id) => {
     try {
         const token = localStorage.getItem('accessToken');
 
-        await axios.delete(`/api/authors/${id}`, {
+        await axios.delete(`${apiUrl}/api/authors/${id}`, {
             headers: {
                 Authorization: `Bearer ${token}`,
             },

@@ -1,23 +1,20 @@
-using LibraryManager.Server;
-using LibraryManager.Server.Converters;
-using LibraryManager.Server.Models;
-using LibraryManager.Server.Repositories;
-using LibraryManager.Server.Services;
+using LibraryManager.Server.API.Converters;
+using LibraryManager.Server.Application.Services;
+using LibraryManager.Server.Domain.Models;
+using LibraryManager.Server.Infrastructure;
+using LibraryManager.Server.Infrastructure.Repositories;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Authorization;
 using Microsoft.AspNetCore.Mvc.Formatters;
 using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 using System.Reflection.Metadata;
 using System.Text;
+using System.IO;
 using System.Text.Json.Serialization;
-
-
 
 namespace LibraryManager
 {
@@ -33,13 +30,18 @@ namespace LibraryManager
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            builder.WebHost.ConfigureKestrel(options =>
+            {
+                options.ListenAnyIP(5000); 
+            });
+
             IConfigurationRoot configuration = builder.Configuration.AddUserSecrets<Program>().Build();
             string connectionString = configuration.GetConnectionString("RemoteConnection");
 
             string secretPass = configuration["Database:password"];
             string secretUser = configuration["Database:login"];
 
-            
+
             SqlConnectionStringBuilder sqlConnectionStringBuilder = new(connectionString)
             {
                 Password = secretPass,
@@ -120,7 +122,6 @@ namespace LibraryManager
                   options.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.Preserve;
                   options.JsonSerializerOptions.Converters.Add(new JsonStringEnumConverter());
                   options.JsonSerializerOptions.Converters.Add(new DateOnlyJsonConverter());
-                  options.JsonSerializerOptions.Converters.Add(new TimeOnlyJsonConverter());
               })
               .AddApplicationPart(typeof(AssemblyReference).Assembly);
 
@@ -159,7 +160,6 @@ namespace LibraryManager
             app.UseSwagger();
             app.UseSwaggerUI();
 
-            app.UseHttpsRedirection();
             app.UseCors("CorsPolicy");
 
             app.UseStaticFiles();

@@ -1,0 +1,32 @@
+version: '3.8'
+
+services:
+  librarymanager.server:
+    image: ${DOCKER_REGISTRY-}librarymanagerserver
+    build:
+      context: .
+      dockerfile: LibraryManager.Server/Dockerfile
+    networks:
+      - librarymanager_network
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./dataProtectionKeys:/root/.aspnet/DataProtection-Keys
+
+
+  librarymanager.client:
+    image: client:latest
+    build:
+      context: ./librarymanager.client
+      dockerfile: Dockerfile
+    networks:
+      - librarymanager_network
+    volumes:
+      - ./librarymanager.client:/app
+      - /app/node_modules
+    ports:
+      - "3000:3000"
+
+networks:
+  librarymanager_network:
+    driver: bridge

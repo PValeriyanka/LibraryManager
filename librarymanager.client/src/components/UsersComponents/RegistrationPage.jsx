@@ -65,11 +65,6 @@ const RegistrationPage = () => {
             <br></br>
             <br></br>
             <section>
-                {serverError && (
-                    <div className="alert alert-danger" role="alert">
-                        {serverError}
-                    </div>
-                )}
                 <form id="form" onSubmit={handleSubmit(onSubmit)}>
                     <table className="table">
                         <tbody>
@@ -84,7 +79,7 @@ const RegistrationPage = () => {
                                         className="form-control"
                                         {...register('userName')}
                                     />
-                                    {errors.userName && (<span className="text-danger">{errors.userName.message}</span>)}
+                                    {errors.userName && (<span className="text-danger">Invalid username!</span>)}
                                 </td>
                             </tr>
                             <tr>
@@ -98,7 +93,7 @@ const RegistrationPage = () => {
                                         className="form-control"
                                         {...register('email')}
                                     />
-                                    {errors.email && ( <span className="text-danger">{errors.email.message}</span> )}
+                                    {errors.email && (<span className="text-danger">Invalid email!</span> )}
                                 </td>
                             </tr>
                             <tr>
@@ -112,7 +107,7 @@ const RegistrationPage = () => {
                                         className="form-control"
                                         {...register('password')}
                                     />
-                                    {errors.password && (<span className="text-danger">{errors.password.message}</span> )}
+                                    {errors.password && (<span className="text-danger">Invalid password!</span> )}
                                 </td>
                             </tr>
                         </tbody>
@@ -127,6 +122,11 @@ const RegistrationPage = () => {
                         {isSubmitting ? 'Registering...' : 'Register'}
                     </button>
                 </form>
+                {serverError && (
+                    <div className="alert alert-danger" role="alert">
+                        An error occurred while registering!
+                    </div>
+                )}
             </section>
         </div>
     );

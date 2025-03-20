@@ -1,10 +1,12 @@
 import axios from 'axios';
 
+const apiUrl = import.meta.env.VITE_API_URL; 
+
 export const fetchAllBooks = async (params) => {
     try {
         const token = localStorage.getItem('accessToken');
 
-        const response = await axios.get("/api/books", {
+        const response = await axios.get(`${apiUrl}/api/books`, {
             params,
             headers: {
                 Authorization: `Bearer ${token}`,
@@ -14,7 +16,7 @@ export const fetchAllBooks = async (params) => {
         const metaDataHeader = response.headers['x-pagination'];
         const metaData = metaDataHeader ? JSON.parse(metaDataHeader) : null;
 
-        const books = response.data.$values || [];  
+        const books = response.data.$values || [];
 
         return {
             data: books,
@@ -30,7 +32,7 @@ export const fetchBooks = async () => {
     try {
         const token = localStorage.getItem('accessToken');
 
-        const response = await axios.get("/api/books/withoutmeta", {
+        const response = await axios.get(`${apiUrl}/api/books/withoutmeta`, {
             headers: {
                 Authorization: `Bearer ${token}`,
             },
@@ -48,7 +50,7 @@ export const fetchBooks = async () => {
 export const getBookById = async (id) => {
     try {
         const token = localStorage.getItem('accessToken');
-        const response = await axios.get(`/api/books/${id}`, {
+        const response = await axios.get(`${apiUrl}/api/books/${id}`, {
             headers: {
                 Authorization: `Bearer ${token}`,
             },
@@ -64,7 +66,7 @@ export const deleteBook = async (id) => {
     try {
         const token = localStorage.getItem('accessToken');
 
-        await axios.delete(`/api/books/${id}`, {
+        await axios.delete(`${apiUrl}/api/books/${id}`, {
             headers: {
                 Authorization: `Bearer ${token}`,
             },
@@ -75,10 +77,9 @@ export const deleteBook = async (id) => {
     }
 };
 
-
 export const updateBook = async (id, book) => {
     const token = localStorage.getItem('accessToken');
-    const response = await axios.put(`/api/books/${id}`, book, {
+    const response = await axios.put(`${apiUrl}/api/books/${id}`, book, {
         headers: {
             Authorization: `Bearer ${token}`,
         },
@@ -89,7 +90,7 @@ export const updateBook = async (id, book) => {
 
 export const createBook = async (book) => {
     const token = localStorage.getItem('accessToken');
-    const response = await axios.post('/api/books', book, {
+    const response = await axios.post(`${apiUrl}/api/books`, book, {
         headers: {
             Authorization: `Bearer ${token}`,
         },

@@ -1,8 +1,6 @@
 import axios from 'axios';
 import { refreshToken } from '../services/loginPost';
 
-axios.defaults.baseURL = 'https://localhost:32775/';
-
 axios.interceptors.request.use(
   async (config) => {
     const accessToken = localStorage.getItem('accessToken');

@@ -1,22 +1,23 @@
 import axios from 'axios';
 
+const apiUrl = import.meta.env.VITE_API_URL;
 
 export const loginPost = async (params) => {
     try {
-      const response = await axios.post("/api/authentication/login", params);
-      const data = response.data;
-      return {
-        accessToken: data.accessToken,
-        refreshToken: data.refreshToken,
-      };
+        const response = await axios.post(`${apiUrl}/api/authentication/login`, params);
+        const data = response.data;
+        return {
+            accessToken: data.accessToken,
+            refreshToken: data.refreshToken,
+        };
     } catch (error) {
-      console.error("Error login:", error);
-      return { accessToken: null, refreshToken: null };
+        console.error("Error login:", error);
+        return { accessToken: null, refreshToken: null };
     }
-  };
+};
 
 export const registerPost = async (params) => {
-    const response = await axios.post("/api/authentication", params);
+    const response = await axios.post(`${apiUrl}/api/authentication`, params);
     return response;
 };
 
@@ -28,7 +29,7 @@ export const refreshToken = async () => {
             return { accessToken: null, refreshToken: null };
         }
 
-        const response = await axios.post("/api/token/refresh-token", { refreshToken: refreshTokenValue });
+        const response = await axios.post(`${apiUrl}/api/token/refresh-token`, { refreshToken: refreshTokenValue });
         const data = response.data;
 
         if (data.accessToken && data.refreshToken) {
@@ -48,5 +49,3 @@ export const refreshToken = async () => {
         return { accessToken: null, refreshToken: null };
     }
 };
-
-

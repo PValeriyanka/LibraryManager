@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { BrowserRouter as Router, Route, Routes, Link, useNavigate, useLocation } from 'react-router-dom';
+import { Route, Routes, Link, useNavigate, useLocation } from 'react-router-dom';
 import './styles/App.css';
 
 import AuthorsPage from './components/AuthorsComponents/AuthorsPage';

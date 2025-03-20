@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
 import { createBorrowedBook } from '../../services/borrowedBooks';
-//import { fetchBooks } from '../../services/books';
 import '../../styles/App.css';
 
 function CreateBorrowedBookPage() {
@@ -15,38 +14,16 @@ function CreateBorrowedBookPage() {
     });
     const [errors, setErrors] = useState({});
     const [userName, setName] = useState()
-    //const [selectedBookTitle, setSelectedBookTitle] = useState('');
 
     useEffect(() => {
         
         loadBooks();
     }, []);
 
-    //useEffect(() => {
-    //    if (bookId) {
-    //        const book = books.find((b) => b.bookId === bookId);
-    //        if (book) {
-    //            console.log("!!");
-    //            setSelectedBookTitle(book.title); 
-    //        }
-    //    }
-    //}, [bookId, books]);
-
     const loadBooks = async () => {
         try {
-            //const booksData = await fetchBooks();
             const user = localStorage.getItem('userName'); 
-            //setBooks(booksData);
             setName(user);
-
-            //if (bookId) {
-            //    const book = booksData.find((b) => b.bookId === bookId);
-              
-            //    if (book) {
-            //        console.log("!!!");
-            //        setSelectedBookTitle(book.title); 
-            //    }
-            //}
 
         } catch (error) {
             console.error('Failed to fetch books or users:', error);

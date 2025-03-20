@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  librarymanager.server:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    volumes:
+      - ${APPDATA}/Microsoft/UserSecrets:/home/app/.microsoft/usersecrets:ro
+      - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
+
+  librarymanager.client:
+    environment:
+      - NODE_ENV=development

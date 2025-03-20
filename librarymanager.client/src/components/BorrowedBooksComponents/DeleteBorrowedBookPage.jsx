@@ -1,26 +1,15 @@
 import React, { useEffect } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
-//import { getBookById } from '../../services/books';
 import { deleteBorrowedBook } from '../../services/borrowedBooks';
 import '../../styles/App.css'; 
 
 function DeleteBorrowedBookPage() {
     const { id, bookTitle } = useParams();
     const navigate = useNavigate();
-    //const [borrowedBook, setBorrowedBook] = useState(null);
 
     useEffect(() => {
-        //loadBorrowedBook();
     }, [id]);
 
-    //const loadBorrowedBook = async () => {
-    //    try {
-    //        const data = await getBookById(id);
-    //        setBorrowedBook(data);
-    //    } catch (error) {
-    //        console.error("Failed to fetch borrowed book data:", error);
-    //    }
-    //};
 
     const handleDelete = async (e) => {
         e.preventDefault();
@@ -35,10 +24,6 @@ function DeleteBorrowedBookPage() {
     const handleCancel = () => {
         navigate('/borrowedBooks');
     };
-
-    //if (!borrowedBook) {
-    //    return <p className="loading">Loading...</p>;
-    //}
 
     return (
         <div className="page">

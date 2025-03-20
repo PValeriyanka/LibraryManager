@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { getUserById, deleteUser } from '../../services/users';
-import '../../styles/App.css'; // Import the styles file
+import '../../styles/App.css'; 
 
 function DeleteUserPage() {
     const { id } = useParams();
